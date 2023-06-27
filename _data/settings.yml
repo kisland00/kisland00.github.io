@@ -1,0 +1,48 @@
+#-------------------------------
+# General Site Settings
+title: Portfolio
+logo: logo.svg # You can add own logo.
+description: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Jekuk Kim
+  image: 01.png
+  say-hello: 안녕하세요 저는 <strong>김제국</strong>입니다. # Hello, I'm <strong>Jekuk Kim</strong>
+  bio: #I'm Programmer. I'm good at <strong>Unity</strong>, <strong>Unreal</strong> and <strong>Soket Programming</strong>. I dev Game and Service. Loves Music & Movie.#
+   저는 개발자입니다. <strong>Unity</strong>, <strong>Unreal</strong> 그리고 <strong>Soket Programming</strong>을 주로 다룹니다. 저는 게임과 서비스를 개발합니다. 음악과 영화를 좋아해요.
+  
+   #<a href="#">Music</a> & Movie.
+
+
+
+#-------------------------------
+# Contact links
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+github: https://github.com/kisland00/MyP/ # Add your Pinterest handle
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: Jay # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+#instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+#google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
